@@ -5,7 +5,7 @@ import java.util.List;
 public class EmployeeJDBC {
     private static final String JDBC_URL = "jdbc:mysql://localhost:3306/EmployeeDB";
     private static final String JDBC_USER = "root";
-    private static final String JDBC_PASSWORD = "Hello@world21"; // replace with your MySQL password
+    private static final String JDBC_PASSWORD = ""; // replace with your MySQL password
 
     // Create
     public void addEmployee(Employee employee) {
